@@ -1,6 +1,10 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{BF3C66D1-1A40-4BF8-97A7-A4D85D516BC6}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation", "Foundation\Foundation.csproj", "{A71C6074-5292-4891-BF74-A8384363433E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDeTest", "ConsoleDeTest\ConsoleDeTest.csproj", "{E08AA328-5054-4637-8171-2E3423AF2BCD}"
@@ -9,28 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Busine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalibreWeb", "CalibreWeb\CalibreWeb.csproj", "{B2AB6F8A-459B-4F2E-BB82-3F4F52B8FCF7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{BF3C66D1-1A40-4BF8-97A7-A4D85D516BC6}"
-EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 5
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://pickwick.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Business\\Business.csproj
-		SccProjectName1 = Business
-		SccLocalPath1 = Business
-		SccProjectUniqueName2 = CalibreWeb\\CalibreWeb.csproj
-		SccProjectName2 = CalibreWeb
-		SccLocalPath2 = CalibreWeb
-		SccProjectUniqueName3 = ConsoleDeTest\\ConsoleDeTest.csproj
-		SccProjectTopLevelParentUniqueName3 = Calibre.sln
-		SccProjectName3 = ConsoleDeTest
-		SccLocalPath3 = ConsoleDeTest
-		SccProjectUniqueName4 = Foundation\\Foundation.csproj
-		SccProjectName4 = Foundation
-		SccLocalPath4 = Foundation
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
