@@ -1,2 +1,37 @@
 ﻿body {
+background-color:Ivory;
+font-size:1.2em;
+font-family:sans-serif;
+}
+
+p
+{
+  font-size:1.2em;
+}
+
+input
+{
+  height:3em;
+ border-radius:10px;
+cursor:pointer;
+}
+
+
+#mUserControl_mSummary
+{
+  font-size:1.2em;
+	
+}
+
+#mUserControl_mSerie
+{
+  font-size:1.2em;
+}
+
+#mImage
+{
+   width:40vw;
+   max-width:300px;
+   /* height:50vh; */
+border-radius:15px;
 }

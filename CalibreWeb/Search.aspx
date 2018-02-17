@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Search.aspx.cs" Inherits="CalibreWeb.Search" %>
-<%@ Register TagPrefix="myControls" Namespace="CalibreWeb" assembly="CalibreWeb" %>
+<%@ Register TagPrefix="myControls" Namespace="CalibreWeb" assembly="Calibre.CalibreWeb" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
